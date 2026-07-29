@@ -1,4 +1,4 @@
-Financial Sentiment Analysis with FinBERT
+**Financial Sentiment Analysis with FinBERT**
 
 A production-ready NLP pipeline for financial sentiment analysis using **FinBERT** and **PyTorch**.
 This project implements an end-to-end workflow for fine-tuning a Transformer model (ProsusAI/finbert) on the Financial PhraseBank dataset, including data preprocessing, tokenization, model training, evaluation, inference, and comprehensive error analysis.
@@ -213,7 +213,7 @@ Technologies
 
 
 Author:
-Maryam Khosravi
+**Maryam Khosravi**
 GitHub:
 https://github.com/maryamkhosravii
 
